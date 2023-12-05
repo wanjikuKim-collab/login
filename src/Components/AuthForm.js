@@ -1,6 +1,6 @@
 import React from 'react'
 import { useFormStatus } from "react-dom";
-
+// Hey you, add comments to the code so I undertand the logic. xoxo
 function AuthForm({formData, buttonType, handleChange, handleSubmit}) {
   return (
     <div>
